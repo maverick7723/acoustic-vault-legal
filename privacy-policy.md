@@ -62,5 +62,5 @@ The app requires the INTERNET permission solely for the initial local authentica
 
 \## 6. Contact
 
-Since we do not collect any data, we have no way to identify you. For technical support, please contact the developer via E-Mail: gc116815@gmail.com.
+Since we do not collect any data, we have no way to identify you. For technical support, please contact the developer via E-Mail: chaudharygaurav3@gmail.com.
 
